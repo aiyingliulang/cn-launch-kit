@@ -2,11 +2,13 @@
 
 I’ve never successfully shipped an app to a store. I’m going through the whole process and writing down each step as I finish it. If I get rejected, I’ll record the rejection notice.
 
+> This project is in progress. I have never successfully published any software to an app store. This material does not constitute legal advice.
+
 This open-source diary is for independent developers shipping their first app. I’m going through the process with 《拉了么》, an Android app for keeping a personal bathroom log. It also has a WeChat Mini Program version built with workBuddy. The backend is live, and I’ve tested the full sign-in, activation, sync, and export flow on a physical device using the Android integration build. I haven’t formally submitted the Android app to any store or the Mini Program to WeChat for review. The available project record uses a guest AppID placeholder. The filing entity, official AppID, and build to be submitted still need to be matched.
 
 ## Chapters and Progress
 
-Chapters 04, 05, and 08 are available in English. The table also links to their Chinese originals.
+Chapters 04 and 05 are available in English. The table also links to their Chinese originals.
 
 | Chapter | Current status | What I’ve recorded so far |
 | --- | --- | --- |
@@ -17,7 +19,16 @@ Chapters 04, 05, and 08 are available in English. The table also links to their 
 | [05 Mini Program Review Submission](05.en.md) ([中文](05-小程序提审.md)) | Researched | Proposed category is Tools → Health Management. The actual selection still needs confirmation. Official AppID and review history still to come firsthand. |
 | [06 Rejection Log](06-被拒档案.md) | Not started | I’ve prepared a blank template. |
 | [07 Self-Review Checklist](07-自查清单.md) | In progress | I’ve checked off the items I’ve verified. The remaining items are waiting for firsthand verification. |
-| [08 Apple’s China mainland requirements](08.en.md) ([中文](08-苹果中国区新规.md)) | Verified against Apple Help | Two compliance declarations. Existing apps must complete them and pass verification by 2027-01-31. |
+
+## Cross-Platform Policy
+
+- [iOS | Apple’s China mainland requirements](cross-platform/ios/08.en.md) ([中文](cross-platform/ios/08-苹果中国区新规.md)). Official policy verified. I have yet to file the iOS declarations myself. Existing apps must complete both declarations and pass verification by 2027-01-31.
+
+## Updating the Diary
+
+Use the [standard entry template](TEMPLATE-记录.md) for every new firsthand entry. The five evidence labels are 官方规则 (official rules), 亲历记录 (firsthand record), 审核反馈 (review feedback), 处理结果 (outcome), and 待验证 (pending verification).
+
+[Changelog](CHANGELOG.md)
 
 [SKILL.md](SKILL.md) is for AI agents that need to consult or continue this diary.
 
