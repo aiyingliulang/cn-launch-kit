@@ -6,18 +6,18 @@ This open-source diary is for independent developers shipping their first app. I
 
 ## Chapters and Progress
 
-The chapter links below open the original Chinese text.
+Chapters 04, 05, and 08 are available in English. The table also links to their Chinese originals.
 
 | Chapter | Current status | What I’ve recorded so far |
 | --- | --- | --- |
 | [01 MIIT Filing](01-备案.md) | In progress | The Mini Program filing was approved. The Android filing status still needs to be documented. |
 | [02 Software Copyright Registration](02-软著.md) | In progress | I submitted applications for both the Android and Mini Program versions. Both are in the acceptance stage. |
 | [03 Backend Compliance](03-后端合规.md) | In progress | Public HTTPS, a successful SMTP send call, and Android integration testing on a physical device are working. |
-| [04 Android App Stores](04-安卓商店.md) | Researched | Research covers five stores. Eligibility for individual developers on vivo’s mainland platform and the current MyApp requirements remain pending. No submissions yet. |
-| [05 Mini Program Review Submission](05-小程序提审.md) | Researched | Proposed category is Tools → Health Management. The actual selection still needs confirmation. Official AppID and review history still to come firsthand. |
+| [04 Android App Stores](04.en.md) ([中文](04-安卓商店.md)) | Researched | Research covers five stores. Eligibility for individual developers on vivo’s mainland platform and the current MyApp requirements remain pending. No submissions yet. |
+| [05 Mini Program Review Submission](05.en.md) ([中文](05-小程序提审.md)) | Researched | Proposed category is Tools → Health Management. The actual selection still needs confirmation. Official AppID and review history still to come firsthand. |
 | [06 Rejection Log](06-被拒档案.md) | Not started | I’ve prepared a blank template. |
 | [07 Self-Review Checklist](07-自查清单.md) | In progress | I’ve checked off the items I’ve verified. The remaining items are waiting for firsthand verification. |
-| [08 Apple’s China mainland requirements](08-苹果中国区新规.md) | Verified against Apple Help | Two compliance declarations. Existing apps must complete them and pass verification by 2027-01-31. |
+| [08 Apple’s China mainland requirements](08.en.md) ([中文](08-苹果中国区新规.md)) | Verified against Apple Help | Two compliance declarations. Existing apps must complete them and pass verification by 2027-01-31. |
 
 [SKILL.md](SKILL.md) is for AI agents that need to consult or continue this diary.
 
